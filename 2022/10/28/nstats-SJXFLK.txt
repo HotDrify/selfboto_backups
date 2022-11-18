@@ -1,3 +1,0 @@
-my status:
-cpu: 57.5%/100%
-ram: 62MB

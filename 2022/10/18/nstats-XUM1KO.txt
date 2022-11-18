@@ -1,3 +1,0 @@
-my status:
-cpu: {CPU}%/100%
-ram: {percentmem}MB
